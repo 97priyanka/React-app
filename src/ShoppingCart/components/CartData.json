@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Wakefit Water Proof Mattress Protector",
+    "skucode": "WMP7236",
+    "name": "(72*36inch)",
+    "mrp": "916",
+    "qty": 1,
+    "thumbnail": "https://wakefit-co.s3.ap-south-1.amazonaws.com/img/product-thumbnails/mattress-protector-square-small.jpg",
+    "discount": 25
+  },
+  {
+    "id": 2,
+    "title": "Wakefit Orthopaedic Memory Foam Mattress",
+    "skucode": "WOMFM75356",
+    "name": "(75*35*6inch)",
+    "mrp": "9271",
+    "qty": 1,
+    "thumbnail": "https://wakefit-co.s3.ap-south-1.amazonaws.com/img/product-thumbnails/memory-foam-mattress-square-small.jpg",
+    "discount": 32
+  },
+  {
+    "id": 3,
+    "title": "Wakefit Orthopaedic Memory Foam Mattress",
+    "skucode": "WOMFM75426",
+    "name": "(75*42*6inch)",
+    "mrp": "10688",
+    "qty": 1,
+    "thumbnail": "https://wakefit-co.s3.ap-south-1.amazonaws.com/img/product-thumbnails/memory-foam-mattress-square-small.jpg",
+    "discount": 32
+  }
+]

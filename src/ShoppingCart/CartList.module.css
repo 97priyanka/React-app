@@ -1,0 +1,54 @@
+.table {
+  margin-top: 2%;
+  border-collapse: collapse;
+  border-bottom: 1px solid #ddd;
+}
+
+.table td {
+  text-align: left;
+  padding: 15px;
+}
+
+.table th {
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  padding: 15px;
+}
+
+.productDisplay {
+  display: flex;
+}
+
+.productInfo {
+  margin-left: 5%;
+}
+
+.mattress {
+  border-radius: 5%;
+  width: 50px;
+  height: 50px;
+}
+
+.subText {
+  font-size: 14px;
+  color: grey;
+}
+
+.deleteButton {
+  border: none;
+  background: none;
+}
+
+.totalCount {
+  text-align: right;
+  margin-right: 10%;
+}
+
+.itemInfo {
+  margin-top: 2%;
+  margin-left: 1%;
+}
+
+.quantity {
+  padding: 5%;
+}
